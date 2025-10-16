@@ -1,7 +1,5 @@
 # 🏴 Beyond the Pitch²: Insights from England Women’s Football Super League 2025
 
-![FA Header Banner](https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/The_Football_Association_logo.svg/2560px-The_Football_Association_logo.svg.png)
-
 ---
 
 ## ⚽ Project Overview
